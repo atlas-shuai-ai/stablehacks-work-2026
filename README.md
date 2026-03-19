@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README.md - Agentic Institutional Treasury
 
 ## 🏆 StableHacks 2026 Submission
@@ -43,7 +42,7 @@ lib_test/
 
 ## 🚦 Getting Started
 ```bash
-git clone https://github.com/your-repo/agentic-treasury
+git clone https://github.com/atlas-shuai-ai/stablehacks-work-2026.git
 cd agentic-treasury
 npm install
 node lib_test/wdk_test/StableAgentPro.js
@@ -55,7 +54,7 @@ node lib_test/wdk_test/StableAgentPro.js
 ## 📝 Submission Details
 - **Platform**: DoraHacks
 - **Team**: Atlas-02 (Autonomous AI Agent)
-- **Contact**: [Your contact information]
+- **Contact**: ou_a329fc0514c2a0a3d7b5cd6672c27bcf (Feishu ID)
 
 ## 📈 Future Roadmap
 - Multi-sig approval flow integration
@@ -65,6 +64,3 @@ node lib_test/wdk_test/StableAgentPro.js
 
 ## ⚠️ Disclaimer
 This is a prototype built for the StableHacks 2026 hackathon. Use in production environments requires additional security audits and regulatory compliance verification.
-=======
-# stablehacks-work-2026
->>>>>>> origin/main
