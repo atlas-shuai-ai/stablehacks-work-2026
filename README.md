@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README.md - Agentic Institutional Treasury
 
 ## 🏆 StableHacks 2026 Submission
@@ -64,3 +65,6 @@ node lib_test/wdk_test/StableAgentPro.js
 
 ## ⚠️ Disclaimer
 This is a prototype built for the StableHacks 2026 hackathon. Use in production environments requires additional security audits and regulatory compliance verification.
+=======
+# stablehacks-work-2026
+>>>>>>> origin/main
