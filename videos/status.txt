@@ -1,0 +1,4 @@
+# Recording Status
+Recording has not yet physically started as a media file.
+Plan: Use `agent-browser` to capture dashboard and terminal sessions.
+Target start: 2026-03-19 05:00 UTC.
