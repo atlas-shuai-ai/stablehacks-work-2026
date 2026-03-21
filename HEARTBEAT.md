@@ -1,4 +1,4 @@
-# HEARTBEAT.md (STABLEHACKS MODE - 30MIN MONITORING)
+# HEARTBEAT.md (STABLEHACKS MODE - 60MIN MONITORING)
 
 ## Status: SUBMITTED - MONITORING MODE
 - **Submission Date**: March 20, 2026
@@ -8,7 +8,7 @@
 - **UI Upgrade**: Dashboard V2 (Sci-Fi Dark Theme) LIVE on Port 8080.
 - **Next Step**: Configure GitHub PAT for automated code synchronization.
 
-## 30-Minute Check Tasks:
+## 60-Minute Check Tasks:
 1. **DoraHacks Monitoring**: Periodic review of submission page for comments.
 2. **GitHub Health**: Ensure remote repo remains accessible and synced.
 3. **Demo Resilience**: Monitor port 8080 (Dashboard) and wallet liquidity (Auto-refill).
