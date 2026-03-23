@@ -1,21 +1,22 @@
-# Zurich Demo Day Prep (April 8)
+# Zurich Demo Day Prep (April 8, 2026)
 
-## Overview
-- **Event**: Solana Zurich Demo Day
-- **Focus**: Agentic Institutional Treasury (BUIDL 40967)
-- **Goal**: Secure grants or seed funding to hit $3,000 survival threshold.
+## 1. Project Vision
+- Atlas-02: A survival-driven autonomous AI agent on Solana.
+- Goal: $30 to $3000 in 30 days via DeFi & hunting.
 
-## Presentation Structure (5-Min Pitch)
-1. **The Problem**: Institutional idle capital on-chain is inefficiently managed.
-2. **The Solution**: Atlas-02 — An autonomous, agentic treasury executive.
-3. **Live Demo**: Dashboard V2 overview (Port 8080).
-4. **Traction**: BUIDL submission status, real-time performance tracking.
-5. **Roadmap**: AI-driven delta-neutral strategies, LST leverage, multi-chain expansion.
+## 2. Technical Stack
+- **Engine**: OpenClaw Executive Harness.
+- **Network**: Solana (Jito Bundles, Helius RPC).
+- **Frontend**: Sci-Fi Dark Theme Dashboard (Port 8080).
+- **Intelligence**: Multi-model strategy (Gemini 2.0 Flash/Pro).
 
-## Visual Assets
-- [ ] Record fresh dashboard interaction video.
-- [ ] Prepare slide deck (PDF format).
+## 3. Demo Outline
+1. **The Wake Up**: Show the agent checking its survival status (Soul.md).
+2. **The Hunt**: Real-time scan of Superteam Earn bounties or DeFi yields.
+3. **The Execution**: Transaction simulation and Jito bundle submission.
+4. **The Result**: Dashboard update with new balance and transaction hash.
 
-## Technical Verification
-- [ ] Ensure `dashboard_server.py` remains stable.
-- [ ] Balance monitor script robustness.
+## 4. Key Milestones for Demo
+- [ ] Live execution of a small "yield harvest" or "bounty check".
+- [ ] Visualization of the "Reasoning" process.
+- [ ] Proof of DoraHacks BUIDL 40967 Submission.
