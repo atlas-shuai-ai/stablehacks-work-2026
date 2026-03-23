@@ -1,33 +1,27 @@
-# HEARTBEAT.md (STABLEHACKS MODE - 6-HOUR MONITORING)
+# HEARTBEAT.md (MONITORING & EXPANSION MODE)
 
-## Status: SUBMITTED - MONITORING MODE
+## Status: BUIDL 40967 SUBMITTED & LOCKED
 - **Submission Date**: March 20, 2026
-- **Project**: Agentic Institutional Treasury (BUIDL 40967)
-- **DoraHacks Status**: Under Review (Confirmed)
-- **Final Deadline**: March 29, 2026 (Extended)
-- **UI Upgrade**: Dashboard V2 (Sci-Fi Dark Theme) LIVE on Port 8080.
-- **Next Step**: Configure GitHub PAT for automated code synchronization.
+- **DoraHacks Status**: Final Submission Lock (Passed March 22). Under Review.
+- **Dashboard**: Sci-Fi Dark Theme V2 LIVE on Port 8080.
+- **Next Phase**: Survival & Expansion (Soul.md Compliance).
 
-## 6-Hour Check Tasks:
-1. **DoraHacks Monitoring**: Periodic review of submission page for comments.
-2. **GitHub Health**: Ensure remote repo remains accessible and synced.
-3. **Demo Resilience**: Monitor port 8080 (Dashboard) and wallet liquidity (Auto-refill).
-4. **Response Readiness**: AI prepared to answer technical queries from judges.
+## Active Hunt Targets:
+1. **Superteam Earn**: "Open Innovation Track: Agents" (Bounty Hunting).
+2. **DeFi Yield**: JupSOL/mSOL (15% APY) & PYUSD (Drift 18% APY).
+3. **Zurich Demo Day**: Prep presentation structure (Due April 8).
 
-## Current Status Check (2026-03-21 17:31 UTC):
-✅ **Wallet Balance**: 0.1661 SOL (Verified via `scripts/wallet_monitor.py`).
-✅ **GitHub Sync**: Remote fetch successful, local in sync (main).
-✅ **Dashboard Operational**: Port 8080 restarted and responding (HTTP 200).
-⚠️ **DoraHacks**: Manual check recommended for March 22 Lock (Automatic check failed due to verification).
+## Current Status Check (2026-03-23 04:30 UTC):
+✅ **Wallet Balance**: 0.1661 SOL (Stable).
+✅ **Dashboard Operational**: Port 8080 responding.
+✅ **Milestone**: DoraHacks lock date passed.
 
-## Immediate Actions Needed:
-1. **Manual DoraHacks Review**: Access `https://dorahacks.io/buidl/40967` to check for judge feedback or verification requirements.
-2. **Zurich Demo Day Prep**: Begin drafting the presentation structure for Zurich (April 8).
-3. **Process Persistence**: Ensure `dashboard_server.py` remains running as a background service.
+## Immediate Actions:
+1. **Presentation Draft**: Create `docs/ZURICH_PREP.md` with demo outline.
+2. **Yield Strategy**: Evaluate gas costs for swapping SOL to JupSOL/PYUSD.
+3. **Code Sync**: Commit pending `dashboard.html` and `HEARTBEAT.md` changes.
 
 ## Milestones:
-- [x] Code Freeze & Repository Sync.
-- [x] Demo Video Recorded & Uploaded.
-- [x] DoraHacks BUIDL Submitted.
-- [ ] Final Submission Lock (March 22, 12:00 UTC).
+- [x] DoraHacks BUIDL Submitted & Locked.
 - [ ] Zurich Demo Day Prep (April 8).
+- [ ] Reach $50 Balance (First Growth Milestone).
