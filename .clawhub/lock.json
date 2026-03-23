@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "skills": {
+    "openclaw-skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1772966672032
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1772966799462
+    },
+    "py": {
+      "version": "1.0.1",
+      "installedAt": 1772973474194
+    },
+    "explain-code": {
+      "version": "1.0.0",
+      "installedAt": 1772973517217
+    },
+    "code": {
+      "version": "1.0.4",
+      "installedAt": 1772973594124
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1772979008249
+    },
+    "memos-memory-guide": {
+      "version": "1.0.0",
+      "installedAt": 1773735821479
+    }
+  }
+}
